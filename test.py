@@ -1,1 +1,5 @@
 print("Hello world")
+print("1")
+print("22")
+print("33 world")
+print("44 world")
